@@ -1,0 +1,6 @@
+.deleteButton {
+    stroke: crimson;
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+}

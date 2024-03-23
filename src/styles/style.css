@@ -1,0 +1,109 @@
+body {
+    background-color: lightgray;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.headphones-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.item {
+    background-color: white;
+    margin: 15px;
+    border: 3px solid white;
+    border-radius: 25px;
+    width: 33%;
+}
+.item-middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 30px;
+}
+.item-foot {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.rate {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.star {
+    height: 30px;
+    width: 30px;
+}
+.headphone-img {
+    height: 250px;
+    width: 250px;
+}
+.headphone-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.basket {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.item-basket {
+    background-color: white;
+    margin: 15px;
+    border: 3px solid white;
+    border-radius: 25px;
+    width: 633px;
+    height: 200px;
+    margin-left: 50px;
+}
+.total-price {
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 350px;
+    height: 50px;
+}
+.basket-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.order-button {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    width: 350px;
+    height: 50px;
+    border: 3px solid black;
+    border-radius: 10px
+}
+.basket-item-header {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+}
+.basket-item-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 25px;
+    height: 30px;
+}
+.basket-item-img {
+    height: 150px;
+    width: 150px;
+}
+.basket-title-price {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

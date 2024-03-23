@@ -1,0 +1,7 @@
+.buyButton {
+    margin: 0px 10px 10px 0px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+}

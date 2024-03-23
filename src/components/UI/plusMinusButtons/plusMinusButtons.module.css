@@ -1,0 +1,12 @@
+.plusMinusButton {
+    background-color: orange;
+    border: 3px solid orange;
+    border-radius: 35px;
+    cursor: pointer;
+}
+.container {
+    display: flex; 
+    flex-direction: row-reverse; 
+    height: 30px;
+    margin-left: 15px;
+}

@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    height: 100px;
+}
+.homeButton {
+    cursor: "pointer"; 
+    font-weight: "bold";
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+}
