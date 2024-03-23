@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cd92059.css",
+    "main.js": "/static/js/main.3bfbf387.js",
+    "static/media/airpods-max-silver-front.jpg": "/static/media/airpods-max-silver-front.5789b9609bef6d51bf0f.jpg",
+    "static/media/airpods-pro-2022.jpeg": "/static/media/airpods-pro-2022.2e71b5dbb985da44f5e5.jpeg",
+    "static/media/airpods-pro-preview.jpeg": "/static/media/airpods-pro-preview.07ab2c881089a1618766.jpeg",
+    "static/media/apple-earpods-35-mm.jpeg": "/static/media/apple-earpods-35-mm.8ac3aee361be3531d6d0.jpeg",
+    "static/media/airpods2.jpeg": "/static/media/airpods2.742d48ad317d8b0d878f.jpeg",
+    "static/media/airpods-3-front.jpeg": "/static/media/airpods-3-front.c49a372931b98a45fdb3.jpeg",
+    "static/media/bracket.png": "/static/media/bracket.a829cada0f37b604a509.png",
+    "static/media/star.png": "/static/media/star.d0cbd94e0a4a62fc2bf4.png",
+    "index.html": "/index.html",
+    "main.2cd92059.css.map": "/static/css/main.2cd92059.css.map",
+    "main.3bfbf387.js.map": "/static/js/main.3bfbf387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd92059.css",
+    "static/js/main.3bfbf387.js"
+  ]
+}
